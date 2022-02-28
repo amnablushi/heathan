@@ -14,9 +14,9 @@ export const products = [
   },
   {
     id: 2,
-    name: 'Phone Mini',
+    name: 'amnma',
     price: 699,
-    description: 'A great phone with one of the best cameras'
+    description: 'A great and phone with one of the best cameras'
   },
   {
     id: 3,
